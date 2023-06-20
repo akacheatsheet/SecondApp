@@ -11,6 +11,7 @@ APPLICATION_NAME = SecondApp
 
 SecondApp_FILES = AppDelegate.swift RootViewController.swift
 SecondApp_FRAMEWORKS = UIKit CoreGraphics
+SecondApp_SWIFTFLAGS = -Ounchecked
 
 include $(THEOS_MAKE_PATH)/application.mk
 
