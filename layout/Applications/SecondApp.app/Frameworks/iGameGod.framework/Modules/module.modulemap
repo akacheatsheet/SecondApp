@@ -1,0 +1,4 @@
+framework module iGameGod {
+  header "iGameGod-Swift.h"
+  requires objc
+}

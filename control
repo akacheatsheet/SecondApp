@@ -1,0 +1,9 @@
+Package: app.vercel.akacheatsheet.secondapp
+Name: SecondApp
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: メモリチート検証用アプリ
+Maintainer: cs
+Author: cs
+Section: Utilities
+Depends: 
